@@ -1,2 +1,2 @@
 # octouser
-My repositories is about 
+My repositories is about learning
